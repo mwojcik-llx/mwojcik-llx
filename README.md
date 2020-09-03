@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Some facts about me:
 
 - 🔭 I’m currently working on ... Angular, ASP .Net Core
 - 🌱 I’m currently learning ... Helm, Mongo ( specially document data organization)
